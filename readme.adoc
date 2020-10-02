@@ -4,7 +4,7 @@ image::https://img.shields.io/badge/version-1.5.2-green.svg[]
 image::https://img.shields.io/badge/minSDK-19-blue.svg[]
 image::https://img.shields.io/badge/license-MIT-yellowgreen.svg[]
 
-This library helps you to scan any document like CamScanner.
+This fantastic library helps you to scan any type of documents like similar to CamScanner.
 
 image::documentscannerMockup.png[]
 
